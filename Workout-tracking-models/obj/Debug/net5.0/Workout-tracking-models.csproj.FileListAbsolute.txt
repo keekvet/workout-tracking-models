@@ -1,0 +1,12 @@
+C:\Users\Andru\git\Workout-tracking-models\Workout-tracking-models\obj\Debug\net5.0\Workout-tracking-models.csprojAssemblyReference.cache
+C:\Users\Andru\git\Workout-tracking-models\Workout-tracking-models\obj\Debug\net5.0\Workout-tracking-models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andru\git\Workout-tracking-models\Workout-tracking-models\obj\Debug\net5.0\Workout-tracking-models.AssemblyInfoInputs.cache
+C:\Users\Andru\git\Workout-tracking-models\Workout-tracking-models\obj\Debug\net5.0\Workout-tracking-models.AssemblyInfo.cs
+C:\Users\Andru\git\Workout-tracking-models\Workout-tracking-models\obj\Debug\net5.0\Workout-tracking-models.csproj.CoreCompileInputs.cache
+C:\Users\Andru\git\Workout-tracking-models\Workout-tracking-models\bin\Debug\net5.0\Workout-tracking-models.deps.json
+C:\Users\Andru\git\Workout-tracking-models\Workout-tracking-models\bin\Debug\net5.0\Workout-tracking-models.dll
+C:\Users\Andru\git\Workout-tracking-models\Workout-tracking-models\bin\Debug\net5.0\ref\Workout-tracking-models.dll
+C:\Users\Andru\git\Workout-tracking-models\Workout-tracking-models\bin\Debug\net5.0\Workout-tracking-models.pdb
+C:\Users\Andru\git\Workout-tracking-models\Workout-tracking-models\obj\Debug\net5.0\Workout-tracking-models.dll
+C:\Users\Andru\git\Workout-tracking-models\Workout-tracking-models\obj\Debug\net5.0\ref\Workout-tracking-models.dll
+C:\Users\Andru\git\Workout-tracking-models\Workout-tracking-models\obj\Debug\net5.0\Workout-tracking-models.pdb
