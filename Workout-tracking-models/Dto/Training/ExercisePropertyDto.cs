@@ -11,6 +11,6 @@ namespace WorkoutTracking.Application.Dto.Training
         public int Id { get; set; }
         public int Duration { get; set; }
         public string DurationType { get; set; }
-        public int Weigth { get; set; }
+        public int Weight { get; set; }
     }
 }
