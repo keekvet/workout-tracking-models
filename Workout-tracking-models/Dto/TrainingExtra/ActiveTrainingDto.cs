@@ -9,6 +9,7 @@ namespace WorkoutTracking.Application.Dto.TrainingExtra
     public class ActiveTrainingDto
     {
         public int TrainingTemplateId { get; set; }
+        public string TrainingTemplateName { get; set; }
         public int ExerciseDonePosition { get; set; }
     }
 }

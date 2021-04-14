@@ -12,5 +12,6 @@ namespace WorkoutTracking.Application.Dto.TrainingExtra
         public DayOfWeek Day { get; set; }
         public string StartTime { get; set; }
         public int TemplateId { get; set; }
+        public string TemplateName { get; set; }
     }
 }
